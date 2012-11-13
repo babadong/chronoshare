@@ -5,6 +5,16 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class Timeline extends Activity {
+	
+	//TESTING
+	//TESTING
+	//TESTING
+	
+	//THIS IS A TEST
+	
+	//THIS DOES NOTHING
+	
+	//BECAUSE IT IS A TEST
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -17,4 +27,6 @@ public class Timeline extends Activity {
         getMenuInflater().inflate(R.menu.activity_timeline, menu);
         return true;
     }
+    
+  boolean cow;
 }
